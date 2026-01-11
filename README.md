@@ -16,3 +16,5 @@ It allows users to add, view, update, and delete daily tasks.
 1. Clone the repository:
    ```bash
    git clone https://github.com/nehadangi2911-coder/Task-Tracker.git
+## Project URL
+https://github.com/nehadangi2911-coder/Task-Tracker.git
